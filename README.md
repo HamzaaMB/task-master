@@ -75,11 +75,9 @@ Task Master is a simple task management application with a backend built using N
 
 - **Edit Icon**: The edit icon should be active while someone is editing, and an inactive icon to stop editing.
 
-- **Confirm Symbol**: A confirm symbol to send the update and dynamically render the component.
+- **Confirm Symbol**: A confirm symbol to send the update and dynamically render the component, the callback to the parent component is set up for dynamic loading.
 
-- **Callback to Parent Component**: The callback to the parent component is set up for dynamic loading.
-
-- **Enter Icon**: An enter icon while typing can be presented to indicate to users to press enter when done.
+- **Enter Icon**: An enter icon while typing can be presented to indicate to users to press enter when done typing task.
 
 - **Error Handling for Frontend**: Implement error handling for frontend, a notification service that sends notifications for any errors.
 
