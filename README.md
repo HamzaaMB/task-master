@@ -1,4 +1,6 @@
-# Your Project Name
+# Task Master
+
+Task Master is a simple task management application with a backend built using Node.js, Express, and MongoDB, and a frontend built with React.
 
 ## Backend
 
